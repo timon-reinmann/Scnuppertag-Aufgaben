@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\git\\Scnuppertag-Aufgaben\\Musterl\u00F6sungen\\Countdown\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4969F803-866B-4D2E-9DCF-8C15B5D8760C}|Countdown\\Countdown.csproj|c:\\git\\scnuppertag-aufgaben\\musterl\u00F6sungen\\countdown\\countdown\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4969F803-866B-4D2E-9DCF-8C15B5D8760C}|Countdown\\Countdown.csproj|solutionrelative:countdown\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\git\\Scnuppertag-Aufgaben\\Musterl\u00F6sungen\\Countdown\\Countdown\\Program.cs",
+              "RelativeDocumentMoniker": "Countdown\\Program.cs",
+              "ToolTip": "C:\\git\\Scnuppertag-Aufgaben\\Musterl\u00F6sungen\\Countdown\\Countdown\\Program.cs",
+              "RelativeToolTip": "Countdown\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T13:23:50.582Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
