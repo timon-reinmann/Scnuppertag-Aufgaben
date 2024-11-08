@@ -1,0 +1,31 @@
+
+# Build directories
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Log files
+*.log
+
+# Visual Studio Code settings
+.vscode/
+
+# Temporary files
+*.tmp
+*.temp
+
+# IDE config files
+.idea/
+
+# Backup files
+*.bak
+*.old
+
+# OS generated files
+.DS_Store
+Thumbs.db
